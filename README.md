@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernanda</h1>
-<h3 align="center">A passionate front-end developer from Brazil</h3>
+<h3 align="center">A passionate Software Engineer from Brazil</h3>
 
-- 💬 Ask me about **React.js, Javascript, Java and Spring Boot**
+- 💬 Ask me about **React.js, Javascript, Typescript, Java and Spring Boot**
 
 - 📫 How to reach me **fernandakimiek@gmail.com**
 
